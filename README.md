@@ -9,7 +9,7 @@
 ###
 <ul>
   <li>👤 Brazilian Computer Scientist</li>
-  <li>🎂 21 years old</li>
+  <li>🙇🏻‍♂️ 21 years old</li>
   <li>🎓 Currently in the final stages of my studies at <a href="https://portal.fei.edu.br/">FEI</a></li>
   <li>💼 Working as a Data Analyst at Mercedes-Benz Brazil</li>
   <li>💻 Passionate about technology and programming</li>
