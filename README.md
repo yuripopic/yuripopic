@@ -8,7 +8,8 @@
 <ul>
   <li>👨🏻‍💻 Brazilian Computer Scientist</li>
   <li>🙇🏻‍♂️ 21 years old</li>
-  <li>🎓 Currently in the final stages of my studies at <a href="https://portal.fei.edu.br/">FEI</a></li>
+  <li>🎓 Graduated in Computer Science from <a href="https://portal.fei.edu.br/">FEI</a></li>
+  <li>📊 Currently pursuing a postgraduate degree in Data Analytics at <a href="https://www.fiap.com.br/">FIAP</a></li>
   <li>💼 Working as a Data Analyst at Mercedes-Benz Brazil</li>
   <li>💻 Passionate about technology and programming</li>
   <li>📚 Always eager to learn and improve my skills</li>
